@@ -1,0 +1,8 @@
+streamlit
+pandas
+subprocess
+call
+plotly.express
+TikTokApi
+json
+sys
